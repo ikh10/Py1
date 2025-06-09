@@ -7,6 +7,7 @@ Welcome to **Py1**, a mini Python project series created during my summer break!
 2. Simple Quiz Game
 3. Basic Calculator
 4. Age Category Checker
+5. Dice Rolling Game
 
 ## Technology Used: Python 3.x
 ---
@@ -51,7 +52,12 @@ Checks the user’s age and categorizes them into an age group.
   
 ---
 
+### 5. 🎲 Dice Rolling Game
 
+A simple game that simulates rolling a 6-sided dice based on user input.
 
-
+**Features**
+- Prompts user to roll the dice with a Yes/No input
+- Generates a random number between 1 and 6 using `random.randint()`
+- Handles invalid input 
 
